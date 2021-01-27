@@ -1,0 +1,10 @@
+C:\Users\gerardo.aguilar\source\repos\Unidad21-UnitTest\Unidad21-UnitTest\bin\Debug\Unidad21-UnitTest.exe.config
+C:\Users\gerardo.aguilar\source\repos\Unidad21-UnitTest\Unidad21-UnitTest\bin\Debug\Unidad21-UnitTest.exe
+C:\Users\gerardo.aguilar\source\repos\Unidad21-UnitTest\Unidad21-UnitTest\bin\Debug\Unidad21-UnitTest.pdb
+C:\Users\gerardo.aguilar\source\repos\Unidad21-UnitTest\Unidad21-UnitTest\obj\Debug\Unidad21-UnitTest.csprojAssemblyReference.cache
+C:\Users\gerardo.aguilar\source\repos\Unidad21-UnitTest\Unidad21-UnitTest\obj\Debug\Unidad21_UnitTest.Properties.Resources.resources
+C:\Users\gerardo.aguilar\source\repos\Unidad21-UnitTest\Unidad21-UnitTest\obj\Debug\Unidad21-UnitTest.csproj.GenerateResource.cache
+C:\Users\gerardo.aguilar\source\repos\Unidad21-UnitTest\Unidad21-UnitTest\obj\Debug\Unidad21-UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\gerardo.aguilar\source\repos\Unidad21-UnitTest\Unidad21-UnitTest\obj\Debug\Unidad21-UnitTest.exe
+C:\Users\gerardo.aguilar\source\repos\Unidad21-UnitTest\Unidad21-UnitTest\obj\Debug\Unidad21-UnitTest.pdb
+C:\Users\gerardo.aguilar\source\repos\Unidad21-UnitTest\Unidad21-UnitTest\obj\Debug\Unidad21_UnitTest.Form1.resources
