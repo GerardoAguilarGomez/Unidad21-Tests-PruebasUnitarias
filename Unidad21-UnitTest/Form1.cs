@@ -85,7 +85,6 @@ namespace Unidad21_UnitTest
         private void button1_Click(object sender, EventArgs e)
         {
             Geometria G1 = new Geometria();
-            int a = G1.areacuadrado(4);
             switch (figura)
             {
                 case "cuadrado":
